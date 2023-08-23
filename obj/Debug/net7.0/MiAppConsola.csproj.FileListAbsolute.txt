@@ -1,0 +1,14 @@
+C:\Users\miria\Desktop\app .net\MiAppConsola\bin\Debug\net7.0\MiAppConsola.exe
+C:\Users\miria\Desktop\app .net\MiAppConsola\bin\Debug\net7.0\MiAppConsola.deps.json
+C:\Users\miria\Desktop\app .net\MiAppConsola\bin\Debug\net7.0\MiAppConsola.runtimeconfig.json
+C:\Users\miria\Desktop\app .net\MiAppConsola\bin\Debug\net7.0\MiAppConsola.dll
+C:\Users\miria\Desktop\app .net\MiAppConsola\bin\Debug\net7.0\MiAppConsola.pdb
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\MiAppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\MiAppConsola.AssemblyInfoInputs.cache
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\MiAppConsola.AssemblyInfo.cs
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\MiAppConsola.csproj.CoreCompileInputs.cache
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\MiAppConsola.dll
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\refint\MiAppConsola.dll
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\MiAppConsola.pdb
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\MiAppConsola.genruntimeconfig.cache
+C:\Users\miria\Desktop\app .net\MiAppConsola\obj\Debug\net7.0\ref\MiAppConsola.dll
